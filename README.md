@@ -1,4 +1,5 @@
 # Menu-Mobile-App
+#Uploaded code does not contain stuff that is confidential.
 <img width="1440" alt="Screenshot 2023-04-20 at 21 11 33" src="https://user-images.githubusercontent.com/102245292/233440235-8e8ae3f3-0797-4667-a414-48af27c52efe.png">
 <img width="1440" alt="Screenshot 2023-04-20 at 21 12 35" src="https://user-images.githubusercontent.com/102245292/233440271-502c4436-2ce5-4aaa-99a7-600d6bc07c16.png">
 <img width="1440" alt="Screenshot 2023-04-20 at 21 12 50" src="https://user-images.githubusercontent.com/102245292/233440291-b813f624-2395-4a5a-ae35-5821391e4bd1.png">
