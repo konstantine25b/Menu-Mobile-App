@@ -1,4 +1,13 @@
 # Menu-Mobile-App
+One of my most impressive work accomplishments is the creation of a comprehensive app system that revolutionized the food ordering experience. This system consisted of a food ordering app built in React Native, a web version of the app built in React, and a restaurant-side platform.
+
+In the food ordering app, built using React Native, I focused on delivering a seamless and user-friendly interface. I implemented features such as real-time menu browsing, personalized recommendations, and a smooth ordering process. This ensured that customers could effortlessly explore various food options and place their orders efficiently. (https://github.com/konstantine25b/Menu-Mobile-App)
+
+Simultaneously, I developed the web version of the app using React, catering to users who preferred accessing the service through their desktop browsers. I ensured a consistent user experience across platforms while leveraging the advantages of web technologies to provide additional functionalities. (https://github.com/konstantine25b/restaurant-app-web)
+
+To streamline the entire process, I created a restaurant-side platform built in React. This platform enabled restaurants to manage their menu items. (https://github.com/konstantine25b/restaurant-side-web)
+
+This app system showcased my ability to create cohesive cross-platform solutions using React and React Native. By combining my skills in frontend development with a focus on user experience and incorporating robust features, I successfully developed an innovative and comprehensive food ordering system that benefited both customers and restaurant owners.
 #Uploaded code does not contain stuff that is confidential.
 <img width="1440" alt="Screenshot 2023-04-20 at 21 11 33" src="https://user-images.githubusercontent.com/102245292/233440235-8e8ae3f3-0797-4667-a414-48af27c52efe.png">
 <img width="1440" alt="Screenshot 2023-04-20 at 21 12 35" src="https://user-images.githubusercontent.com/102245292/233440271-502c4436-2ce5-4aaa-99a7-600d6bc07c16.png">
